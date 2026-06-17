@@ -1,6 +1,6 @@
 [
   {
-    "name": "foxran-plugin-meme-stickers",
+    "name": "meme_stickers",
     "type": "tool",
     "description": "基于图片叠加发送梗图表情包的趣味工具",
     "author": "Foxran",
