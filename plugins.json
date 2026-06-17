@@ -1,7 +1,7 @@
 {
     "meme_stickers": {
         "version": "1.0.0",
-        "repository": "https://github.com/Ainierheokami/foxran-plugin-meme-stickers.git",
+        "repository": "file:///d:/myfoxbot/foxran-plugin-meme-stickers",
         "description": "表情包插件"
     }
 }
