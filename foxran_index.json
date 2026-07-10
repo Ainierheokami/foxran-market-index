@@ -1,18 +1,12 @@
 [
   {
-    "name": "meme_stickers",
-    "type": "tool",
-    "description": "基于图片叠加发送梗图表情包的趣味工具",
-    "author": "Foxran",
     "git_url": "https://github.com/Ainierheokami/foxran-plugin-meme-stickers.git",
-    "version": "1.0.0"
+    "branch": "master",
+    "review_status": "approved"
   },
   {
-    "name": "onebot_v11",
-    "type": "adapter",
-    "description": "OneBot v11 协议标准适配器",
-    "author": "Foxran",
     "git_url": "https://github.com/Ainierheokami/foxran-adapter-onebot.git",
-    "version": "1.0.0"
+    "branch": "master",
+    "review_status": "approved"
   }
 ]
