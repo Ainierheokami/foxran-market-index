@@ -10,6 +10,11 @@
     "review_status": "approved"
   },
   {
+    "git_url": "https://github.com/Ainierheokami/foxran-adapter-qqbot.git",
+    "branch": "master",
+    "review_status": "approved"
+  },
+  {
     "git_url": "https://github.com/Ainierheokami/foxran-plugin-tool-optimizer.git",
     "branch": "master",
     "review_status": "approved"
